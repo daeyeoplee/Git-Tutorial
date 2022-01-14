@@ -11,6 +11,5 @@ int mul(int a, int b){
 }
 
 int div(int a, int b){
-<<<<<<< HEAD
     return a / b; // 주석
 }
